@@ -8,8 +8,9 @@
 
 | Student | Name | Roll No. | Role |
 |---|---|---|---|
-| A | Nikhil D P | 20241ISE0014 | Automation Architect & Framework Engineer |
-| B | Anivith H G | 20241ISE0031 | Test Designer & White-Box Specialist |
+| A | Nikhil D P | 20241ISE0014 | Automation Architecture |
+| B | Anivith H G | 20241ISE0031 | framework |
+| c | Disha R | 20241ISE0027 | Test Design |
 
 **Target application:** SauceDemo, https://www.saucedemo.com
 
